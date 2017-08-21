@@ -1,0 +1,16 @@
+Final Results for Best States:
+
+State  Sum of Scores
+DC	    8171
+MD	    7831
+NY	    7641
+CA    	7586
+CT	    7550
+DE	    7513.5
+NM   	7498.5
+NJ  	7436.5
+NV  	7333
+MA  	7142.5
+
+Justification:
+We used data from the "Timely and Effective Care" data set in order to determine how states were actually performing. We took the sum of all procedure scores as the best proxy for overall quality so that every state had the same total of maximum points. Our output is based on the top ten overall sum of procedure scoes. Our queuries also include averages for additional analysis.
