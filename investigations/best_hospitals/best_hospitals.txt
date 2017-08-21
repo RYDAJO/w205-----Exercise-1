@@ -1,0 +1,16 @@
+Final Results for Best Hospitals
+
+Provider ID   Hospital Name  	                    Sum of Score
+1. 310002   NEWARK BETH ISRAEL MEDICAL CENTER   	 5123
+2. 330202	KINGS COUNTY HOSPITAL CENTER        	 5051
+3. 330101	NEW YORK-PRESBYTERIAN HOSPITAL      	 4807
+4. 450289	HARRIS HEALTH SYSTEM                	 4725
+5. 50060	COMMUNITY REGIONAL MEDICAL CENTER      	 4648
+6. 320001	UNM HOSPITAL	                         4621
+7. 450213	UNIVERSITY HEALTH SYSTEM	             4609
+8. 50327	LOMA LINDA UNIVERSITY MEDICAL CENTER	 4581
+9. 180067	UNIVERSITY OF KENTUCKY HOSPITAL	         4520
+10. 50292	RIVERSIDE COUNTY REGIONAL MEDICAL CENTER 4510
+
+Justification:
+We used data from the "Timely and Effective Care" data set in order to determine how hospitals were actually performing. We took the sum of all procedure scores as the best proxy for overall quality so that every hospital had the same total of maximum points. Our output is based on the top ten overall sum of procedure scoes. Our queuries also include averages for additional analysis. 
