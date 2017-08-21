@@ -1,0 +1,7 @@
+Final Results for Correlation:
+
+(please see query for exact number. I am unable to re-run on my instance). 
+
+After aggregating the the data, this approached compared the average score a hospital received across all of its procedures with the average scores patients provided in surveys in order to determine overall correlation between the two samples. In order to come up with a finite patient survey score for each hospital, this approached averaged the percentage of people who answered survey questions as "always" in order to have a bias towards the best hospitals despite less than ideal data structure. We repeated this approach to compare the variablity of procedure scores WITHIN individual hospitals with patient survey scores as well. 
+
+Overall we found that both procedure scores and procedures variablity within a hospital had ~0.4 correlation with patient scores. This might suggests that while there is some positive corelation between the two statistics, there are likely other contributing factors that drive patient survey analysis. 
