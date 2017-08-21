@@ -1,0 +1,16 @@
+Final Results for Highest Procedures by variability:
+
+Measure_ID Measure_Name
+1. ED_1b     ED1
+2. ED_2b     ED2
+3. OP_18b    OP 18
+4. OP_3b     Median Time to Transfer to Another Facility for Acute Coronary Intervention
+5. AMI_7a    Fibrinolytic Therapy Received Within 30 Minutes Of Hospital Arrival
+6. STK_4     Thrombolytic Therapy
+7. OP_23     Head CT results
+8. OP_2      Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival
+9. OP_21     Median time to pain med
+10. OP_20    Door to diagnostic eval
+
+Justification:
+We used data from the "Timely and Effective Care" data set in order to evaluate how procedure scores varied across hospitals for the individual procedures. We felt taht this data provided the most structured and objective data regarding procedure quality, as opposed to the complications data set which provided a higher-level view of quality by provide records for negative outcomes.  We used the oput of standard deviation in order to rank the top ten procedures in terms of the highest variation across hospitals.  
